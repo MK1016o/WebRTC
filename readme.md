@@ -28,7 +28,7 @@ This project is a WebRTC-based application utilizing Agora's platform for real-t
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/MK1016o/Web-RTC.git
     ```
 
 ## Usage
